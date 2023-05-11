@@ -1,6 +1,6 @@
 {
   "name": "@ticketland-io/web3auth-rn",
-  "version": "3.5.0",
+  "version": "3.6.0",
   "description": "Web3Auth SDK that supports Bare (Standalone) and Expo React Native apps.",
   "main": "dist/web3auth-rn.cjs.js",
   "module": "dist/web3auth-rn.esm.js",
